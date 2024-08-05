@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest",
     "build": "tsc --build",
-    "prepare": "husky install"
+    "prepare": "husky"
   },
   "author": "",
   "license": "ISC",
